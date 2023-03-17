@@ -12,7 +12,12 @@
               "children": [
                 {
                   "name": "Azure Cloud Security",
-                  "value": 50
+                  "children": [
+                    {
+                      "name": "Azure Active Directory",
+                      "value": 50
+                    }
+                  ]
                 },
                 {
                   "name": "Google Cloud Security",
