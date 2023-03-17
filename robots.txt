@@ -1,1 +1,1 @@
-Sitemap: https://github.com/vanHeemstraSystems/learning-security-themes/sitemap.xml
+Sitemap: https://github.com/vanHeemstraSystems/learning-azure-cloud-security-themes/sitemap.xml
